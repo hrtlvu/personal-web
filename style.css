@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(labuan\ bajo.jpg) no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 450px;
+    background: rgba(75, 80, 93, 0.286);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'century gothic',sans-serif;
+
+}
+.box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+
+}
+.box h5{
+    font-size: 25px;
+    letter-spacing: 3px;
+}
